@@ -7,6 +7,10 @@ This interactive dashboard analyzes and compares two distinct approaches to AI i
 
 The development of this repository was inspired by OpenAI's blueprint on integrating AI in America's economy and society, to read the full blueprint, visit https://cdn.openai.com/global-affairs/ai-in-america-oai-economic-blueprint-20250113.pdf
 
+![image](https://github.com/user-attachments/assets/888e44ae-8dfb-41c2-a64d-e0d0b5c48202)
+![image](https://github.com/user-attachments/assets/2f3338f3-2ee3-4b61-9c8a-6967a719b52e)
+
+
 ## Features
 
 ### AI Agents Timeline Tab
